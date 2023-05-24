@@ -1,4 +1,4 @@
-# Madhav-Sales-Dashboard
+# Madhav-Sales-Dashboard-In-Power BI
 
 Excited to share my first Power Bi guided project dashboard on Madhav E-commerce Sales with the help of #powerbidesktop.
 
